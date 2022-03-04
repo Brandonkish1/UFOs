@@ -11,7 +11,7 @@ When you open the web page all possible data is showing on the table.
 
 #### Using a filter
 To filter the data for specific information enter text into the text bars on the left of the web page. The data in the table will be fitlered to reflect your search parameters. In the example below a filter is being used for the date 1/9/2010.
-[date_search.png](https://github.com/Brandonkish1/UFOs/blob/main/Images/date_search.png)
+[https://github.com/Brandonkish1/UFOs/blob/main/Images/date_search.png](date_search.png)
 
 #### Filtering for Multiple Criteria
 You can use the filter the data by multiple criteria by entering text to more than one of the text bars on the left of the web page. In the example below there is filter on the date 1/9/2010 and shape light.
