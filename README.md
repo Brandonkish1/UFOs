@@ -27,3 +27,6 @@ If no match is found for the search criteria the table will be blank. In the exa
 
 
 ## Summary
+One drawback of the this design is the user doesn't know what all the search options are. They could spend a lot of time searching for things that aren't part of the data set.
+
+On solution could be to put some text under under each search bar giving an idea what the search options could be. Alternativly it might be better to change each search bar to a drop down menu to ensure you are only making searches within the scope of the data set.
